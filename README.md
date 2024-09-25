@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Thilanka. A graduate of the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka. I'm currently working as an AI Reaserch Engineer, in Dragon Arrow PVT LTD.
 
 <!--
 **Thilanka1999/Thilanka1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->        
