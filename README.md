@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm THILANKA</h1>
-<h3 align="center">A graduate of the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka.</h3>
+<h3 align="center">A Graduate of the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka.</h3>
 
 I am a passionate and enthusiastic Machine Learning practitioner with hands-on experience in **Computer Vision**, **Deep Learning**, **Natural Language Processing (NLP)**, and **MLOps**. My skills also extend to **network engineering** and **cybersecurity**, where I have worked with networking devices, troubleshooting issues, and addressing network security challenges.
 
