@@ -18,7 +18,7 @@ Currently, I am expanding my knowledge in **Data Structures**, **Algorithms**, a
 </p>
 
 
-### *My Skills*
+### **My Skills**
 
 **Programming Languages:**
 <p>
@@ -47,7 +47,8 @@ Currently, I am expanding my knowledge in **Data Structures**, **Algorithms**, a
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
-## Leetcode
+
+### **Leetcode**
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/thilanka999)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilanka1999&label=Profile%20views&color=0e75b6&style=flat" alt="thilanka1999" /> </p>
